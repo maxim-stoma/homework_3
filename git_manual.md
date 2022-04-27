@@ -1,3 +1,5 @@
+![Logo](git_logo.png)
+
 # Работа с Git
 
 ## Установка Git
